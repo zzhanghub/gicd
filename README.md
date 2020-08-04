@@ -55,13 +55,14 @@ More details can be found at our [project home.](http://zhaozhang.net/coca.html)
 * PyTorch >= 1.0
 * tqdm
 #### Pretrained model
-Put the `gicd_ginet.pth` ([Baidu (05cl)](https://pan.baidu.com/s/1UF3wXY3MKdBLP_r7jppz6Q)/[Google Drive](https://drive.google.com/file/d/1gFA16C9m7GXli0TP501cofw0Bzt7-1CS/view?usp=sharing)) to `./param` folder.
+Download `gicd_ginet.pth` ([Baidu (05cl)](https://pan.baidu.com/s/1UF3wXY3MKdBLP_r7jppz6Q)/[Google Drive](https://drive.google.com/file/d/1gFA16C9m7GXli0TP501cofw0Bzt7-1CS/view?usp=sharing)).
 
 <!-- USAGE EXAMPLES -->
 ## Usage
 1. Configure the input root and the output root in `test.sh`
 
 ``` 
+--param_path ./gicd_ginet.pth (pretrained model path)
 --input_root your_data_root (categorize by subfolders)
 --save_root your_output_root
 ```

@@ -28,7 +28,7 @@ def main(args):
     exec('from models import ' + args.model)
     model = eval(args.model + '()')
     model = model.to(device)
-    ginet_dict = torch.load(os.path.join(args.param_root, 'gicd_ginet.pth'))
+    ginet_dict = torch.load(args.param_path)
     model.to(device)
     model.ginet.load_state_dict(ginet_dict)
 
@@ -62,8 +62,8 @@ if __name__ == '__main__':
     parser.add_argument('--model', default='GICD', type=str)
     parser.add_argument('--input_root', type=str, help="Your dataset")
     parser.add_argument('--size', default=224, type=int, help='input size')
-    parser.add_argument('--param_root',
-                        default='paras',
+    parser.add_argument('--param_path',
+                        default='./gicd_ginet.pth',
                         type=str,
                         help='model folder')
     parser.add_argument('--save_root',
