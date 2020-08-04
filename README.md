@@ -31,7 +31,7 @@
     <img alt="Bilibili" src="https://img.shields.io/badge/Short%20Video-%F0%9F%8E%A5-orange" target="_blank" />
   </a>
   <a alt="Bilibili" href="https://www.bilibili.com/video/BV1bi4y137c6">
-    <img src="https://img.shields.io/badge/Long%20Video-%F0%9F%93%BD-blue" />
+    <img src="https://img.shields.io/badge/Long%20Video-%F0%9F%8E%AC-blue" />
   </a>
   <a href="#">
     <img src="https://img.shields.io/badge/Slides-%F0%9F%97%92-yellow">
