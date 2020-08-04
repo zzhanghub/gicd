@@ -25,19 +25,19 @@
 </p>
 <p align="center">
   <a href="https://arxiv.org/abs/2004.13364">
-    <img src="https://img.shields.io/badge/PDF-arXiv-brightgreen" target="_blank" />
+    <img src="https://img.shields.io/badge/PDF-%F0%9F%93%83-green" target="_blank" />
   </a>
   <a href="https://www.bilibili.com/video/BV1y5411a7Rq/">
-    <img alt="Bilibili" src="https://img.shields.io/badge/Short%20Video-%5B1M%5D-orange" target="_blank" />
+    <img alt="Bilibili" src="https://img.shields.io/badge/Short%20Video-%F0%9F%8E%A5-orange" target="_blank" />
   </a>
   <a alt="Bilibili" href="https://www.bilibili.com/video/BV1bi4y137c6">
-    <img src="https://img.shields.io/badge/Long%20Video-%5B5M%5D-blue" />
+    <img src="https://img.shields.io/badge/Long%20Video-%F0%9F%93%BD-blue" />
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/Slides-%5B16M%5D-yellow">
+    <img src="https://img.shields.io/badge/Slides-%F0%9F%97%92-yellow">
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/%E4%B8%AD%E8%AF%91%E7%89%88-%5B5M%5D-red">
+    <img src="https://img.shields.io/badge/%E4%B8%AD%E8%AF%91%E7%89%88-%F0%9F%90%BC-red">
   </a>
 </p>
 
