@@ -10,7 +10,7 @@
   <p align="center">
     Zhao Zhang*, Wenda Jin*, Jun Xu, Ming-Ming Cheng
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>⭐ Project Home »</strong></a>
+    <a href="http://zhaozhang.net/coca.html"><strong>⭐ Project Home »</strong></a>
     <br />
     <!-- <a href="https://arxiv.org/abs/2004.13364" target="_black">[PDF]</a>
     <a href="#" target="_black">[Code]</a>
