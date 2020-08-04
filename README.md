@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="img/GICD_LOGO.png" alt="Logo" width="180" height="80">
+    <img src="img/GICD_LOGO.png" alt="Logo" width="210" height="100">
   </a>
 
   <h3 align="center">Gradient-Induced Co-Saliency Detection</h3>
