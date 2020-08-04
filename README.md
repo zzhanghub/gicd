@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="http://zhaozhang.net/coca.html">
     <img src="img/GICD_LOGO.png" alt="Logo" width="210" height="100">
   </a>
 
