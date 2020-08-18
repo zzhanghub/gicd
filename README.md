@@ -16,8 +16,8 @@
     <a href="#" target="_black">[Code]</a>
     <a href="https://www.bilibili.com/video/BV1y5411a7Rq/" target="_black">[Short Video]</a>
     <a href="https://www.bilibili.com/video/BV1bi4y137c6" target="_black">[Long Video]</a>
-    <a href="#" target="_black">[Slides]</a>
-    <a href="#" target="_black">[中译版]</a>
+    <a href="http://zhaozhang.net/papers/20_GICD/slides.pdf" target="_black">[Slides]</a>
+    <a href="http://zhaozhang.net/papers/20_GICD/translation.pdf" target="_black">[中译版]</a>
     <a href="./papers/20_GICD/bibtex.txt" target="_black">[bib]</a>
     <br />
     <br /> -->
@@ -33,10 +33,10 @@
   <a alt="Bilibili" href="https://www.bilibili.com/video/BV1bi4y137c6">
     <img src="https://img.shields.io/badge/Long%20Video-%F0%9F%8E%AC-blue" />
   </a>
-  <a href="#">
+  <a href="http://zhaozhang.net/papers/20_GICD/slides.pdf">
     <img src="https://img.shields.io/badge/Slides-%F0%9F%97%92-yellow">
   </a>
-  <a href="#">
+  <a href="http://zhaozhang.net/papers/20_GICD/translation.pdf">
     <img src="https://img.shields.io/badge/%E4%B8%AD%E8%AF%91%E7%89%88-%F0%9F%90%BC-red">
   </a>
 </p>
